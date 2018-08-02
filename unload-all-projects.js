@@ -1,5 +1,9 @@
 /// <reference path="C:\Users\bigfo\AppData\Local\Microsoft\VisualStudio\15.0_26cdf119\Macros\dte.js" />
 
+//
+// Work in Progress
+//
+
 Macro.InsertText('foo');
 
 var sln = dte.Solution;
